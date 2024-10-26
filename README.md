@@ -4,7 +4,7 @@
 
 - 👨🏻‍🎓 Formado como Técnico em Informática em Colatina - ES (2017 - 2019).
 - 💻 Cursando Sistemas de Informação pela [UNIRIO](www.unirio.br).
-- 📫 Contato: diogomarinho222@gmail.com
+- 📫 Contato: diogo.arrudamarinho@gmail.com
 <br><br>
 ![diogoarrudamarinho's Stats](https://github-readme-stats.vercel.app/api?username=diogoarrudamarinho&theme=dark&show_icons=true&hide_border=false&count_private=true)
 <br><br>
