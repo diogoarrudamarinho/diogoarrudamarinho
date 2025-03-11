@@ -3,6 +3,7 @@
 ### Estudante de Sistemas de Informação
 - 👨🏻‍🎓 Formado como Técnico em Informática em Colatina - ES (2017 - 2019).
 - 💻 Cursando Sistemas de Informação pela [UNIRIO](www.unirio.br).
+- 🧑‍💻 Estagiando como Desenvolvedor BackEnd pela [MedFutura](https://medfutura.com.br)
 
 ### Conexões
 
@@ -29,7 +30,8 @@
 
 ### Atualmente focado em
 <div style= "display: inline">
-  <img widith='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img widith='80' height='80'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img widith='80' height='80'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
   <img widith='80' height='80'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img widith='80' height='80'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 </div>
