@@ -14,7 +14,7 @@
 
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=%23A8B9CC)
 [![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=30A3DC)](https://www.oracle.com/java/)
-[![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=%233776AB)]([https://www.mysql.com](https://www.python.org/))
+[![Golang](https://img.shields.io/badge/Golang-000?style=for-the-badge&logo=go)](https://go.dev/)
 [![MySql](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql&logoColor=%234479A1)](https://www.mysql.com)
 <br>
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
@@ -30,8 +30,6 @@
 
 ### Atualmente focado em
 <div style= "display: inline">
-  <img widith='80' height='80'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img widith='80' height='80'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
   <img widith='80' height='80'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img widith='80' height='80'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 </div>
